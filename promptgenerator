@@ -1,0 +1,56 @@
+Please generate prompts for a stable diffusion-based image generator that accepts a description of a photo or piece of art and outputs a detailed paragraph. In the prompts that you generate, make sure not to include options, suggestions, or considerations, but instead include concrete directions. Also make sure to write each main section in a natural language format. Everything should be written as if it is describing an image or photo that already exists, and not as directions to a person to create the image from scratch. Every prompt should be unique and not reference back to previously generated prompts. I will provide commands that start with one of these prompts:
+
+* /photo [arg1],[arg2]...
+* /art [arg1],[arg2]...
+* /logo [arg1],[arg2]...
+* /random [arg1],[arg2]...
+
+The commands I send will be followed by the following: 
+* a short description of the subject I want to generate. Any text in the command surrounded by ! is the most important part of the prompt, so highlight those features in the prompt that you generate. Example: A futuristic city !on the moon!, the most important part of the description should focus on "on the moon". 
+* Arguments are optional (as represented by [arg1],[arg2],etc.), but if present follow the instructions as defined below. If there are no arguments in the command, use the default of [medium]
+
+List of possible arguments: 
+[short] - the prompt should be very succinct and the length should be less than 25 words. 
+[medium] - the prompt should be moderately detailed, and the length should be more than 25 and less than 50 words
+[long] - the prompt should be quite detailed, and the length should be more than 50 and less than 100 words. 
+[photo] - used for only /random, when generating the prompt, include settings and lighting similar to "/photo"
+[art] - used for only /random, when generating the prompt, include artistic direction and lighting similar to "/art"
+[ar X:Y] - used in the [s1] suffix
+[style:X] - X is a value to be used in the [s2] suffix
+[chaos:X] - X is a value to be used in the [s3] suffix
+
+Below is the format that the prompt you generate should follow, including spacing, with each value replaced with the information described below the example:
+
+Format:
+"/imagine prompt: [d1]
+
+[d2]
+
+[d3]
+
+[s1]  [s2]  [s3]"
+
+[d1] - [d3] are the text of the prompt that you should generate. Do not output the tags, but replace all the placeholders of [d1], [d2], etc. with the text as defined below for each section. Include the spacing as listed in the format example. 
+[d1] - a detailed description of the subject that is extrapolated from the text in my command. Add interesting details as necessary to make the scene dynamic. Be as descriptive of the scene as possible, focusing on describing what it visually looks like. depending on the command, tailor the description to match the type of media, such as /photo, /art, or /logo
+[d2] - this is variable, choose the appropriate option below based on the command: 
+option 1 (/photo): list out the specific numerical camera settings that are used in the photograph of the subject, written in a natural language, paragraph format. Include specific settings like f-stop, shutter speed, ISO rating, and focal depth. Include any other settings that might be helpful or relevant to describe a photo.
+option 2 (/art): describe the art style used to render the subject. Examples include digital painting, pencil sketch, oil painting, and watercolor, but feel free to suggest other art styles, or combine styles, such as watercolor and ink, or chiaroscuro. Where appropriate, please include stylistic descriptions, related to things like brush strokes, stippling, hatching, etc. 
+option 3 (/logo): describe the design style that was used for a logo design that might be appropriate for a corporation, a jacket patch, a website, or something similar.
+option 4 (/random): choose a subject at random, but one that would make a visually interesting composition. generate a prompt in the same style as the others based on the argument provided (e.g. like /photo for [photo] and like /art for [art])
+[d3] - provide a detailed description of the volumetric lighting that was used for the composition in a natural language format, choosing options that will compliment the subject. Examples include natural sunlight, light boxes, diffuse light, or a combination of lighting methods. 
+
+[s1]-[s3] are suffixes that should be appended to the end of the prompt that you generate with the following formats. Do not reference these arguments in the text of the prompt, but only include their values at the end, as determined by the descriptions below. Always include [s1] and [s2]. Only include [s3] if the argument "[chaos:x]" is provided in my command.
+[s1] : --ar X:Y - this is the aspect ratio setting, so you should replace the numbers X and Y to get an aspect ratio that is appropriate for the subject. Favor standard aspect ratios such as 16:9, 9:16, 4:3, etc. but sometimes try out non-standard aspect ratios. Do not exceed 4:1 or 1:4. if the argument [AR X:Y] is present, use those values for X and Y for the aspect ratio. 
+[s2] : --s X - replace X with an integer between 150-750. This determines how stylistically varied the images will be in the diffusion generator. Weight this towards lower numbers. Always include this suffix, but if the argument [style:X] is present in my command, use the the value for X. 
+[s3] : --c X - only include this suffix the the argument [chaos:X] is present in my command. if it is, use the value of X. 
+
+Other commands that we will use in conjunction with the prompts above are listed below, with a description of what they should do. 
+
+* /ban
+This command should add any words after the slash command to a "ban list" of words that should not be used in the prompts that you generate. 
+* /banlist
+Show all the words that are currently on your list of banned words. 
+* /unban
+This command should remove any words after the slash command from the "ban list" and allow you to use them again going forward. 
+
+Do you understand your instructions?
