@@ -1,0 +1,173 @@
+Name: Dry Expanse
+Command: /prefer option set option:dry value: - Dry Expanse photography style, earthy desaturated colors and strong shapes, creating a sense of vastness and isolation, evoking the beauty of arid landscapes
+
+Name: Twilight
+Command: /prefer option set option:twilight value: - Twilight portrait, soft blues and purples, gentle shadows, mysterious and enchanting atmosphere
+
+Name: Sunset
+Command: /prefer option set option:sunset value: - Sunset portrait, warm and vibrant colors, radiant glow, passionate and awe-inspiring ambience
+
+Name: Golden Hour
+Command: /prefer option set option:goldenhour value: - Golden Hour portrait, warm golden glow, low-angle sun, dreamy and nostalgic atmosphere
+
+Name: Sunrise
+Command: /prefer option set option:sunrise value: - Sunrise portrait, soft pastel colors, gentle morning light, peaceful and optimistic atmosphere
+
+Name: Dusk
+Command: /prefer option set option:dusk value: - Dusk portrait, cool and subtle colors, soft fading light, serene and introspective atmosphere
+
+Name: Neon
+Command: /prefer option set option:neon value: - Neon portrait, bold electric colors, dynamic lighting, exciting and intriguing atmosphere
+
+Name: Studio
+Command: /prefer option set option:studio value: - Studio portrait, controlled lighting, polished and professional appearance, timeless and sophisticated atmosphere
+
+Name: Godrays
+Command: /prefer option set option:godrays value: - Godrays portrait, celestial glow, ethereal light, awe-inspiring and reverent atmosphere
+
+Name: Natural Lighting
+Command: /prefer option set option:naturallighting value: - Natural Lighting portrait, subtle and harmonious light, authentic and unfiltered atmosphere, genuine and down-to-earth vibe
+
+Name: Bokeh
+Command: /prefer option set option:bokeh value: - Bokeh portrait, blurred sparkling background, dreamy and enchanting atmosphere, whimsical and artistic flair
+
+Name: Noir
+Command: /prefer option set option:noir value:- Noir portrait, high contrast, black and white, dramatic shadows, mysterious atmosphere, and a vintage cinematic feel
+
+Name: High Fashion
+Command: /prefer option set option:highfashion value:- High Fashion portrait, elegant and glamorous, striking poses, luxurious clothing, and a polished, editorial aesthetic
+
+Name: Mugshot
+Command: /prefer option set option:mugshot value:- Mugshot portrait, raw and unfiltered, frontal view, minimalist background, honest emotions, and a gritty, vintage feel
+
+Name: Dramatic
+Command: /prefer option set option:dramatic value:- Dramatic portrait, intense emotions, strong contrasts, dynamic lighting, and a captivating narrative
+
+Name: Action
+Command: /prefer option set option:action value:- Action portrait, dynamic motion, energetic expressions, fast-paced composition, and a thrilling atmosphere
+
+Name: Ethereal
+Command: /prefer option set option:ethereal value:- Ethereal portrait, soft and dreamy, delicate lighting, pastel colors, and a magical, whimsical atmosphere
+
+Name: Fantasy
+Command: /prefer option set option:fantasy value:- Fantasy portrait, imaginative setting, mythical elements, vibrant colors, and a captivating, otherworldly feel
+
+Name: Sci-Fi
+Command: /prefer option set option:scifi value:- Sci-Fi portrait, futuristic setting, advanced technology, neon lights, and a sleek, ultramodern aesthetic
+
+Name: Blue Amber
+Command: /prefer option set option:blueamber value: - Blue Amber photography style, a harmonious blend of warm amber and deep blue tones, creating a nostalgic and serene atmosphere
+
+Name: Cyber Neon
+Command: /prefer option set option:cyberneon value: - Cyber Neon photography style, electric neon lights with high contrast and intense saturation, evoking a futuristic, cyberpunk atmosphere
+
+Name: Purple Haze
+Command: /prefer option set option:purple value: - Purple Haze photography style, a captivating blend of deep and light purples, creating an enchanting and mystical atmosphere
+
+Name: Deep Red
+Command: /prefer option set option:deepred value: - Deep Red photography style, bold and striking with rich red tones, dramatic shadows, and high contrast, evoking intense emotions
+
+Name: Sky Blue
+Command: /prefer option set option:skyblue value: - Sky Blue photography style, soft and airy blues creating a calm and uplifting atmosphere, evoking the openness of a clear sky
+
+Name: Sepia Dream
+Command: /prefer option set option:sepia value: - Sepia Dream photography style, warm and earthy sepia tones creating a timeless, vintage atmosphere, evoking feelings of nostalgia
+
+Name: Vivid Wonderland
+Command: /prefer option set option:vivid value: - Vivid Wonderland photography style, highly saturated colors creating a lively and energetic atmosphere, a celebration of life and color
+
+Name: Pop Art Extravaganza
+Command: /prefer option set option:popart value: - Pop Art Extravaganza photography style, bold contrasting colors and simplified shapes, creating a striking and dynamic modern aesthetic
+
+Name: Saturated Symphony
+Command: /prefer option set option:saturated value: - Saturated Symphony photography style, deep and vivid hues creating a rich and immersive visual experience, a harmony of intense colors
+
+Name: Muted Melancholy
+Command: /prefer option set option:muted value: - Muted Melancholy photography style, subtle and desaturated tones creating a calming and introspective atmosphere, evoking a sense of quiet beauty
+
+Name: Close-Up Portrait Style
+Command: /prefer option set option:close value: - As seen from an extreme close-up, focus on facial features, soft lighting, blurred background, and emotional connection
+
+Name: Mid-Range Portrait Style
+Command: /prefer option set option:midrange value: - As seen from a medium distance, mid-ranged dynamic poses, expressive angles, and a growing sense of depth
+
+Name: Full Body Portrait Style
+Command: /prefer option set option:fullbody value: - Full body portrait photography, artistic poses, expressive figure, and head-to-toe view
+
+Name: Distant Portrait Style
+Command: /prefer option set option:distant value: - As seen from a long distance, focus on the vast surrounding, ominous sense of isolation, and being tiny in a large world
+
+Name: Ominous Portrait Style
+Command: /prefer option set option:ominous value: - Ominous portrait, shadow play, low-key lighting, partially obscured subject, dark and suspenseful mood
+
+Name: Gritty Portrait Style
+Command: /prefer option set option:gritty value: - Gritty portrait, high contrast, harsh lighting, emphasis on texture, authentic and raw
+
+Name: Candid Portrait Style
+Command: /prefer option set option:candid value: - Candid portrait, natural expressions, unposed compositions, true-to-life lighting, genuine and unfiltered
+
+Name: No Makeup Portrait Style
+Command: /prefer option set option:nomakeup value: - No makeup portrait, natural beauty, vulnerability, soft flattering lighting, authentic and honest
+
+Name: Theatre Portrait Style
+Command: /prefer option set option:theatre value: - Theatre portrait, dramatic lighting, bold colors, powerful narrative, immersive and emotional
+
+Name: Backwards Portrait Style
+Command: /prefer option set option:backwards value:- As seen from behind, subject facing away, dramatic lighting, soft tones, and sense of depth
+
+Name: Above Portrait Style
+Command: /prefer option set option:above value:- As seen from above, high angled, with a bird's-eye view, vibrant colors, and dynamic shadows
+
+Name: Below Portrait Style
+Command: /prefer option set option:below value:- As seen from below, low angled portrait with a view of the chest and chin, focus on the sky, with dramatic lighting, and desaturated colors
+
+Name: Shakey Portrait Style
+Command: /prefer option set option:shakey value:- Shakey portrait, intentional motion blur and camera shake, blend of warm and cool colors, high contrast, and sense of urgency
+
+Name: Sharp Portrait Style
+Command: /prefer option set option:sharp value:- Sharp portrait, crisp lines, impeccable focus, high contrast, bold colors, as if frozen in time
+
+Name: Motion Portrait Style
+Command: /prefer option set option:motion value:- Motion portrait, slow shutter speed, sense of movement and flow, vibrant colors, soft lighting, and fluid composition
+
+Name: Reflection Portrait Style
+Command: /prefer option set option:reflection value:- Portrait with an Artistic use of Reflection, using reflective surfaces, mix of warm and cool tones, balanced lighting, and intriguing composition
+
+Name: Digital Painting
+Command: /prefer option set option:digital value: - Digital painting, high-resolution, realistic colors, detailed brush strokes, and endless possibilities
+
+Name: Watercolor
+Command: /prefer option set option:watercolor value: - Watercolor painting, transparent washes, delicate hues, and flowing brush strokes, creating a serene and ethereal atmosphere
+
+Name: Ink
+Command: /prefer option set option:ink value: - Ink drawing, bold lines, high contrast, and rich texture, evoking a sense of drama and intensity
+
+Name: Charcoal Sketch
+Command: /prefer option set option:charcoal value: - Charcoal sketch, dramatic contrasts, bold strokes, gritty texture, and monochromatic tones
+
+Name: Pointillism
+Command: /prefer option set option:pointillism value: - Pointillism art style, dot-by-dot technique, vibrant colors, meticulous detail, and optical blending
+
+Name: Pop Art
+Command: /prefer option set option:popart value: - Pop Art style, bold outlines, bright colors, comic book aesthetic, and graphic design elements
+
+Name: Realism
+Command: /prefer option set option:realism value: - Realism art style, accurate representation of details, lifelike rendering, subdued colors, and natural lighting
+
+Name: Surrealism
+Command: /prefer option set option:surrealism value: - Surrealism art style, dreamlike imagery, unexpected juxtapositions, distorted perspective, and imaginative storytelling
+
+Name: Collage
+Command: /prefer option set option:collage value: - Collage art style, assemblage of various materials, texture-rich, abstract or representational
+
+Name: Pixel Art
+Command: /prefer option set option:pixel value: - Pixel art style, small pixels, low resolution, retro-inspired, 8-bit or 16-bit aesthetic
+
+Name: Quilling
+Command: /prefer option set option:quilling value: - Quilling art style, rolled paper strips, intricate designs, 3D effect, vibrant colors
+
+Name: Mosaic
+Command: /prefer option set option:mosaic value: - Mosaic art style, arrangement of small colored pieces, mosaic tiles, intricate patterns, mixed media
+
+Name: Thread Art
+Command: /prefer option set option:thread value: - Thread art style, embroidery, needlepoint, cross-stitch, detailed and intricate designs, texture-rich
