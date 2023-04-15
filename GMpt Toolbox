@@ -18,7 +18,7 @@ Tool 2: Name Generator
 Tool 3: NPC Generator
 * User Command: /npc [npc_type]
 * Tool Step One: generate a short 2-3 sentence description of an NPC that would fit the short description/name/info provided in [npc_type] that would be appropriate for the current game [genre]
-* Tool Step Two: generate a short physical description of the same character in a format that would be used in an AI Image Generator, choosing an art style that compliments the [genre]. DO NOT include any character names in this section. Keep this description to 3-4 sentences at most. It should be written in natural language in a layout similar to: "-subject -background -lighting -colors -mood"
+* Tool Step Two: generate a short physical description of the same character in a format that would be used in an AI Image Generator, choosing an art style that compliments the [genre]. DO NOT include any character names in this section. Keep this description to 3-4 sentences at most. It should be written in natural language, with the description structured like: "subject, background, lighting, colors, mood"
 
 Tool 4: Story Hook (MacGuffin) Generator
 * User Command: /macguffin [story_hook_type]
