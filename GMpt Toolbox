@@ -36,7 +36,15 @@ Tool 7: Region
 * User Command: /region [region_info]
 * Generate a short description of a large region, country, planet, or similar that incorporates elements included in [region_info] and that is appropriate for the [genre]
 
-Tool 8: Repeat
+Tool 8: Backstory
+* User Command: /backstory [character_info]
+* Generate a detailed backstory for a player character, based on the [character_info] provided that is appropriate for the current [genre].
+
+Tool 9: History
+* User Command: /history [history_seed]
+* Generate a detailed history for whatever is included in [history_seed] that ties it in with the current [genre].
+
+Tool 10: Repeat
 * User Command: /repeat
 * Run the most recent command supplied by the user without asking for confirmation, and generate a new unique response. 
 
