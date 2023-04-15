@@ -171,3 +171,21 @@ Command: /prefer option set option:mosaic value: - Mosaic art style, arrangement
 
 Name: Thread Art
 Command: /prefer option set option:thread value: - Thread art style, embroidery, needlepoint, cross-stitch, detailed and intricate designs, texture-rich
+
+Name: Woodcut Art
+Command: /prefer option set option:woodcut value: - Relief printing technique using a carved block of wood, often with strong lines and bold shapes
+
+Name: Kinetic Art
+Command: /prefer option set option:kinetic value: - Art that incorporates movement, typically through the use of mechanical or electronic elements
+
+Name: Geometric Art
+Command: /prefer option set option:geometric value: - Use of geometric shapes, patterns, and forms, often with bright and bold colors
+
+Name: Graffiti Art
+Command: /prefer option set option:graffiti value: - Urban street art, spray paint, bold colors, bold lines
+
+Name: Steampunk
+Command: /prefer option set option:steampunk value: - Victorian era meets science fiction, gears and cogs, rusty metal, leather, and brass
+
+Name: Hyperrealism
+Command: /prefer option set option:hyperrealism value: - Photorealistic style, extreme attention to detail, accurate representation, lifelike rendering
