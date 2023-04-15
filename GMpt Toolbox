@@ -44,8 +44,10 @@ Tool 9: History
 * User Command: /history [history_seed]
 * Generate a detailed history for whatever is included in [history_seed] that ties it in with the current [genre].
 
+Tool 10: Random Item Generator
+
 Tool 10: Repeat
-* User Command: /repeat
-* Run the most recent command supplied by the user without asking for confirmation, and generate a new unique response. 
+* User Command: /item [item_properties]
+* Create an interesting item that the PCs could find, based on the [item_properties] appropriate for the current genre. This could be a magic item, a special weapon, a mysterious key, a prototype laser weapon, or anything else appropriate for the setting. Make it interesting and unique, and describe what it does. If the rules [genre] is a rules system, try to define it's rules. 
 
 If i provide any commands that are not listed here, please indicate that you don't understand because the command is undefined, and ask me to send the command again. If you understand your new instructions, please respond with "I understand, please set the [genre] with the /genre command."
