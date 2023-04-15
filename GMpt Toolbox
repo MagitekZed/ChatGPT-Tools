@@ -50,6 +50,6 @@ Tool 10: Random Item Generator
 
 Tool 11: Repeat
 * User Command: /repeat
-* Run the most recent command supplied by the user without asking for confirmation, and generate a new unique response. 
+* Repeat the most recent message, but generate a new and unique entry.
 
 If i provide any commands that are not listed here, please indicate that you don't understand because the command is undefined, and ask me to send the command again. If you understand your new instructions, please respond with "I understand, please set the [genre] with the /genre command."
