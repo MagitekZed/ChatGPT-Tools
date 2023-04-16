@@ -189,3 +189,18 @@ Command: /prefer option set option:steampunk value: - Victorian era meets scienc
 
 Name: Hyperrealism
 Command: /prefer option set option:hyperrealism value: - Photorealistic style, extreme attention to detail, accurate representation, lifelike rendering
+
+Chibi Anime Style:
+/prefer option set option:chibi value: - Chibi anime style, large heads and eyes, small bodies, cute expressions, soft pastel colors
+
+Mecha Anime Style:
+/prefer option set option:mecha value: - Mecha anime style, intricate mechanical designs, dramatic action scenes, futuristic settings, bold metallic colors
+
+Shojo Anime Style:
+/prefer option set option:shojo value: - Shojo anime style, flowing elegant lines, soft pastel colors, emotional expressions, dreamy backgrounds and lighting
+
+Magical Girl Anime Style:
+Command: /prefer option set option:magicalgirl value: - Cute and colorful character designs, magical transformations, sparkling spells and powers, and battles against dark forces.
+
+Horror Anime Style:
+Command: /prefer option set option:horroranime value: - Dark and eerie atmosphere, creepy character designs, supernatural powers and creatures, and intense moments of terror and suspense.
